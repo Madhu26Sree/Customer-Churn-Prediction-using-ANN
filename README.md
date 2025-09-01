@@ -1,7 +1,7 @@
 # Customer-Churn-Prediction-using-ANN
 This project focuses on predicting customer churn (whether a customer will leave or stay with a service provider) using machine learning and deep learning techniques. The dataset is preprocessed, visualized, and modeled to gain insights and build predictive models.
 
-📌 Project Overview
+📌 **Project Overview**
 
 Customer churn is a critical problem for subscription-based businesses. This notebook walks through:
 Data preprocessing and feature scaling
@@ -15,7 +15,7 @@ Building a neural network using TensorFlow/Keras for churn prediction
 Model evaluation using classification reports and confusion matrices
 
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 
 Python
 
@@ -27,7 +27,7 @@ Scikit-learn – preprocessing, train-test split, evaluation
 
 TensorFlow/Keras – deep learning model
 
-🚀 How to Run
+🚀 **How to Run**
 
 Clone this repo / download the notebook.
 
